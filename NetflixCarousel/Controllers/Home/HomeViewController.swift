@@ -39,6 +39,7 @@ class HomeViewController: UIViewController {
             homeBarView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
             homeBarView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
             homeBarView.heightAnchor.constraint(equalToConstant: 50)
+            
         ])
     }
 
